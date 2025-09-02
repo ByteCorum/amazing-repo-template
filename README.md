@@ -3,7 +3,7 @@
 <!--Can be replaced with project logo-->
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Title" alt="title" /></p>
 
-<h3>Brief description of your project.Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat.</h3>
+<h4>Brief description of your project.Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat.</h4>
 
 <p align='center'>
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/ByteCorum/DragonBurn?display_name=tag&style=flat-square&color=3E4873">
@@ -29,5 +29,8 @@ more shields with icons
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 </p>
+
+<h3>Header</h3>
+text
 
 <p align='center'><img src="https://raw.githubusercontent.com/ByteCorum/ByteCorum/5c1bb83b3e2fdd5ab561f4e56c0b9e7cc29249e3/resources/svg/footer.svg"></p>
