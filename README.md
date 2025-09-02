@@ -1,9 +1,11 @@
 <p align='center'><img src="https://raw.githubusercontent.com/ByteCorum/ByteCorum/5c1bb83b3e2fdd5ab561f4e56c0b9e7cc29249e3/resources/svg/header.svg"></p>
 
 <!--Can be replaced with project logo-->
-<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Title" alt="title" /></p>
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&height=27&lines=Title" alt="title" /></p>
 
-<h4>Brief description of your project.Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat.</h4>
+<h4 align='center'>Brief description of your project.Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat.</h4>
+
+---
 
 <p align='center'>
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/ByteCorum/DragonBurn?display_name=tag&style=flat-square&color=3E4873">
@@ -30,7 +32,49 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 </p>
 
-<h3>Header</h3>
-text
+<h3>📕About📕</h3>
+
+> [!IMPORTANT]
+> Read the contribution guideline before adding a pull request.
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+> [!NOTE]
+> I want the readers to read it carefully as it contains many important docs.
+
+---
+
+<h3>🏁Getting Started🏁</h3>
+
+> [!WARNING]
+> DON'T DELETE THE `package.json` file!
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+---
+
+<h3>🌀Usage🌀</h3>
+
+> [!TIP]
+> Use the command line to detect and resolve the errors!
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+---
+
+<h3>❌Known issues❌</h3>
+
+> [!CAUTION]
+> Don't execute the code without commenting the test cases.
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+---
+
+<h3>📱Contacts and support📱</h3>
+
+<a href="https://github.com/ByteCorum"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://discordapp.com/users/798503509522645012"><img src="https://img.shields.io/badge/Discord-003E54?style=for-the-badge&logo=Discord&logoColor=white"></a>
+<a href="https://ko-fi.com/bytecorum"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 
 <p align='center'><img src="https://raw.githubusercontent.com/ByteCorum/ByteCorum/5c1bb83b3e2fdd5ab561f4e56c0b9e7cc29249e3/resources/svg/footer.svg"></p>
