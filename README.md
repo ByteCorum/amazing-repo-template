@@ -28,9 +28,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 </p>
 
-<p align='center'><img src="https://raw.githubusercontent.com/ByteCorum/ByteCorum/5c1bb83b3e2fdd5ab561f4e56c0b9e7cc29249e3/resources/svg/line.svg" width="750" ></p>
+---
 
-<h3 align="center">Description</h3>
+<h3>Description</h3>
 description
 
 <p align='center'><img src="https://raw.githubusercontent.com/ByteCorum/ByteCorum/5c1bb83b3e2fdd5ab561f4e56c0b9e7cc29249e3/resources/svg/footer.svg"></p>
