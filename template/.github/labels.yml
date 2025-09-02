@@ -1,5 +1,4 @@
----
-# Type Labels
+# Type
 - name: "bug"
   color: ee0701
   description: "Something isn't working as expected or causes issues."
@@ -31,7 +30,7 @@
   color: fef2c0
   description: "Maintenance tasks, build processes, or tooling changes."
 
-# Priority Labels
+# Priority
 - name: "high-priority"
   color: b60205
   description: "High priority issue that should be addressed urgently."
@@ -45,7 +44,7 @@
   color: e4e669
   description: "No specific priority assigned."
 
-# Status Labels
+# Status
 - name: "wip-status"
   color: ff9500
   description: "Work in progress - currently being worked on."
@@ -62,7 +61,7 @@
   color: ffffff
   description: "This will not be worked on or fixed."
 
-# Impact Labels
+# Impact
 - name: "major"
   color: d73a4a
   description: "Major changes with significant impact."
