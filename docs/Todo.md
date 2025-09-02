@@ -2,8 +2,7 @@
 
 ### Height Priority
 
-- [x] Something compleated
-- [ ] Something not compleated
+- [ ] Application to fill data more easily
 
 ### Medium Priority
 
