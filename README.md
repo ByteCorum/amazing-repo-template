@@ -11,7 +11,7 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ByteCorum/DragonBurn?style=flat-square&color=3E4873">
 <img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads/ByteCorum/DragonBurn/latest/total?style=flat-square&color=3E4873">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ByteCorum/DragonBurn?style=flat-square&color=3E4873">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/ByteCorum/DragonBurn?style=flat-square&color=3E4873"><br>
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/ByteCorum/DragonBurn?style=flat-square&color=3E4873">
 <img alt="vscodium" src="https://img.shields.io/badge/VSCodium-2F80ED?style=flat-square&logo=VSCodium&logoColor=FFFFFF">
 <img alt="c" src="https://img.shields.io/badge/C-222222?style=flat-square&logo=C&logoColor=A8B9CC">
 <img alt="cpp" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=FFFFFF">
