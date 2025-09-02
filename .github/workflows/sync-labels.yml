@@ -11,6 +11,7 @@ on:
 
 jobs:
   labels:
+    permissions: write-all
     name: Sync labels
     runs-on: ubuntu-latest
     steps:
