@@ -7,7 +7,7 @@
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/ByteCorum/DragonBurn?display_name=tag&style=flat-square&color=3E4873">
 <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/ByteCorum/DragonBurn?style=flat-square&color=3E4873">
 <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/ByteCorum/DragonBurn/build-check.yml?style=flat-square">
-<img alt="GitHub branch check runs" src="https://img.shields.io/github/check-runs/ByteCorum/DragonBurn/stable?style=flat-square"><br>
+<img alt="GitHub branch check runs" src="https://img.shields.io/github/check-runs/ByteCorum/DragonBurn/stable?style=flat-square">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ByteCorum/DragonBurn?style=flat-square&color=3E4873">
 <img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads/ByteCorum/DragonBurn/latest/total?style=flat-square&color=3E4873">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ByteCorum/DragonBurn?style=flat-square&color=3E4873">
